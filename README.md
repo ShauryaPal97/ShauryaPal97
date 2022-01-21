@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shaurya
+- 👀 I’m interested in Python, Game Developement, Unity, Blender, Photoshop
+- 🌱 I’m currently learning Unity
+- 📫 Wanna reach me? Message me on shauryapalgamedev@gmail.com
